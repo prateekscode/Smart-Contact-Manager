@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html th:replace="~{base::parent(~{::#content})}">
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<div id="content"></div>
+</body>
+</html>

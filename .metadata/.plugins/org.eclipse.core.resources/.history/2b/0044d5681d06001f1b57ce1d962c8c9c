@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html th:replace="~{base::parent(~{::#content},~{::title},~{::script})}">
+<head>
+<meta charset="UTF-8">
+<title>About Page</title>
+</head>
+<body>
+<div id="content">
+<h1>Welcome to about page </h1>
+<p>lorem pa s  dsdsakdsaf sdf sd f sd f sadf  asfd eawfd
+</div>
+<script>console.log()</script>
+</body>
+</html>

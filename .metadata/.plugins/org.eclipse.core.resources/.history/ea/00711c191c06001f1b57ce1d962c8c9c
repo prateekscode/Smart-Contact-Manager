@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html th:replace="~{base::parent}">
+<head>
+<meta charset="UTF-8">
+</head>
+<body></body>

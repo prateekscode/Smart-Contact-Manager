@@ -1,0 +1,10 @@
+spring.application.name=scm2.0
+server.port=8090
+spring.datasource.url=jdbc:mysql://localhost:3306/scm
+spring.datasource.username=root
+spring.datasource.password=prateek
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+#for creating scheama and tables
+spring.jpa.hibernate.ddl-auto=update
+#jpa configrations
+spring.jpa.show-sql=true

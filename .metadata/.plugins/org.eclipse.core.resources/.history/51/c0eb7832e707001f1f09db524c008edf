@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html data-th-replace="~{base::parent(~{::#content},~{::title},~{::script})}">
+<head>
+<meta charset="UTF-8">
+<title>Contact Us Page</title>
+</head>
+<body>
+<div id="content">
+<h1>Welcome to Contact page </h1>
+<p>lorem pa s  dsdsakdsaf sdf sd f sd f sadf  asfd eawfd
+</div>
+<script>console.log("conatct page")</script>
+</body>
+</html>

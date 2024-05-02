@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>This is about page.</h1>
+	<hr>
+	<!-- using fragment -->
+	<div class="host-tag" th:replace="~{base :: parent(~{::section})}">
+		<section>
+		<h1>this is dynamic content</h1>
+		<p>lorem  pklnmn nnnn n nmnmn jhjhhg hgjhjh  ljlkjlkjlk lkjlk jlk jlkjlk j
+		</section>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\Prateek\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.0.v20240322-1225" version="22"/>
+    <libraryInfo home="D:\PRATEEK\jdk-17" version="17.0.10"/>
+    <libraryInfo home="D:\PRATEEK\Java_jdk" version="1.8.0_202">
+        <bootpath>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\resources.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\rt.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\sunrsasign.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\jsse.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\jce.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\charsets.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\jfr.jar"/>
+            <entry path="D:\PRATEEK\Java_jdk\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\PRATEEK\Java_jdk\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
