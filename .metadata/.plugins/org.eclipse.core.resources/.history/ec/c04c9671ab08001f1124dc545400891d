@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+console.log("script loaded");
+let currentTheme="light";
+
+function changeTheme(){
+	
+}
+
+//set theme to local storage
+function setTheme(theme){
+	localStorage.setItem("theme",theme);
+}
+
+//get theme from local storage
+function getTheme(){
+	localStorage.getItem("theme");
+}
