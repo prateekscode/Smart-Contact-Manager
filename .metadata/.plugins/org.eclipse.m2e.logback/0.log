@@ -1835,3 +1835,232 @@ Caused by: java.lang.Exception: Resource '/scm2.0/pom.xml' does not exist.
 2024-05-02 23:45:23,573 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-02 23:45:23,580 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-02 23:45:23,588 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:40:58,635 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-03 09:46:40,067 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:46:40,096 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 09:46:40,121 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:48:42,040 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:48:42,046 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:48:42,052 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:48:55,924 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:48:55,930 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:48:55,940 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:49:13,294 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:49:13,307 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:49:13,320 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:49:19,710 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:49:19,717 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:49:19,726 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:49:52,069 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:49:52,073 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:49:52,081 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:50:01,161 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:50:01,167 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:50:01,175 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:51:30,896 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:51:30,901 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:51:30,909 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:53:13,432 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:53:13,437 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:53:13,443 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:53:15,943 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:53:15,948 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:53:15,955 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:53:28,659 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:53:28,664 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:53:28,672 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:53:55,488 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:53:55,494 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:53:55,503 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:53:57,001 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:53:57,005 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:53:57,011 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:56:08,342 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:56:08,348 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:56:08,355 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:57:11,699 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:57:11,706 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:57:11,715 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:58:17,530 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:58:17,536 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:58:17,544 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:58:18,912 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:58:18,916 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:58:18,923 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 09:59:43,391 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 09:59:43,395 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 09:59:43,400 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:00:02,137 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:00:02,142 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:00:02,150 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:00:13,940 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:00:13,955 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:00:13,981 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:01:30,703 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:01:30,708 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:01:30,716 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:02:07,811 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:02:07,818 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:02:07,826 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:04:06,453 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:04:06,466 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:04:06,480 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:04:36,819 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:04:36,825 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:04:36,851 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:08:54,022 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:08:54,025 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:08:54,032 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:09:08,804 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:09:08,809 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:09:08,816 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:09:36,143 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:09:36,147 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:09:36,154 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:09:53,119 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:09:53,124 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:09:53,130 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:09:56,980 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:09:56,985 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:09:56,993 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:10:30,269 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:10:30,273 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:10:30,279 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:10:49,093 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:10:49,099 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:10:49,109 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:10:54,612 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:10:54,615 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:10:54,620 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 10:12:06,952 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-03 10:12:06,956 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 10:12:06,965 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:08:32,484 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:08:32,504 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:08:32,535 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:11:20,404 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:11:20,500 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:11:20,599 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:14:00,294 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:14:00,307 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:14:00,322 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:14:32,986 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:14:32,997 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:14:33,007 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:14:58,643 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:14:58,673 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:14:58,710 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:15:19,773 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:15:19,788 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:15:19,823 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:15:50,871 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:15:50,884 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:15:50,913 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:17:27,547 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:17:27,558 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:17:27,575 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:18:06,561 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:18:06,575 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:18:06,602 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:19:11,674 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:19:11,700 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:19:11,839 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:19:58,446 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:19:58,457 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:19:58,480 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:22:54,967 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:22:54,980 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:22:54,996 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:28:34,600 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:28:34,615 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:28:34,673 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:33:34,001 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:33:34,013 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:33:34,027 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:34:05,648 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:34:05,658 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:34:05,672 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:34:55,090 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:34:55,102 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:34:55,115 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:34:56,778 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:34:56,793 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:34:56,809 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:35:50,270 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:35:50,311 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:35:50,330 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:36:04,503 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:36:04,518 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:36:04,559 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:36:55,891 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:36:55,906 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:36:55,941 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:37:09,787 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:37:09,793 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:37:09,811 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:37:45,113 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:37:45,124 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:37:45,166 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:37:59,535 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:37:59,551 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:37:59,585 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:38:20,356 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:38:20,370 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:38:21,175 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:40:01,773 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:40:01,789 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:40:01,806 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:40:37,074 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:40:37,085 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:40:37,097 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:40:57,553 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:40:57,563 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:40:57,577 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:41:37,132 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:41:37,144 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:41:37,175 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:42:03,599 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:42:03,611 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:42:03,624 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:44:08,312 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:44:08,337 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:44:08,355 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:44:55,833 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:44:55,848 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:44:55,869 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:45:53,822 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:45:53,832 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:45:53,845 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:46:11,241 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:46:11,251 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:46:11,265 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:46:50,388 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:46:50,399 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:46:50,411 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:46:57,658 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:46:57,673 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:46:57,707 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:47:05,549 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:47:05,559 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:47:05,595 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:47:24,469 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:47:24,481 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:47:24,494 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:47:27,493 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:47:27,503 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:47:27,514 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:48:47,894 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:48:47,905 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:48:47,918 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:49:06,682 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:49:06,693 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:49:06,704 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:54:31,358 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:54:31,369 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:54:31,381 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:56:33,360 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:56:33,371 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:56:33,384 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-03 11:58:20,202 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-03 11:58:20,214 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 12 resources from src\main\resources to target\classes
+2024-05-03 11:58:20,227 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
