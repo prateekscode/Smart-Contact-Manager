@@ -13,8 +13,8 @@ function changeTheme() {
 	//set the listener to change theme button
 	const changeThemeButton = document.querySelector('#theme_change_button');
 	//get the current theme
-	const oldTheme = currentTheme;
 	changeThemeButton.addEventListener("click", (event) => {
+		let oldTheme = currentTheme;
 		console.log("change theme botton click");
 
 		if (currentTheme === "dark") {
