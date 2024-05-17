@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="lombok.Builder"/>
-    <fullyQualifiedTypeName name="lombok.Builder.Default"/>
-    <fullyQualifiedTypeName name="com.scm.helpers.Message"/>
-    <fullyQualifiedTypeName name="com.scm.helpers.MessageType"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
-    <fullyQualifiedTypeName name="org.springframework.web.context.request.RequestContextHolder"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.Servlet"/>
-    <fullyQualifiedTypeName name="org.springframework.web.context.request.ServletRequestAttributes"/>
-    <fullyQualifiedTypeName name="jakarta.validation.constraints.Email"/>
-    <fullyQualifiedTypeName name="jakarta.validation.constraints.Size"/>
-    <fullyQualifiedTypeName name="jakarta.validation.Valid"/>
     <fullyQualifiedTypeName name="org.springframework.validation.BindingResult"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.NotBlank"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.Pattern"/>
@@ -21,7 +9,6 @@
     <fullyQualifiedTypeName name="org.springframework.security.provisioning.UserDetailsManager"/>
     <fullyQualifiedTypeName name="org.springframework.security.provisioning.InMemoryUserDetailsManager"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.security.SecurityProperties.User"/>
-    <fullyQualifiedTypeName name="com.scm.entities.User"/>
     <fullyQualifiedTypeName name="com.scm.entities.User.UserBuilder"/>
     <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User.UserBuilder"/>
     <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
@@ -32,7 +19,6 @@
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.AccessLevel"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="jakarta.persistence.ElementCollection"/>
     <fullyQualifiedTypeName name="jakarta.persistence.FetchType"/>
@@ -41,23 +27,37 @@
     <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
-    <fullyQualifiedTypeName name="com.scm.repositories.UserRepo"/>
     <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UsernameNotFoundException"/>
     <fullyQualifiedTypeName name="com.scm.config.SecurityConfig"/>
     <fullyQualifiedTypeName name="com.scm.services.impl.SecurityCustomUserDetailService"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.AutoConfiguration"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.AutoConfigureOrder"/>
     <fullyQualifiedTypeName name="org.springframework.security.crypto.password.PasswordEncoder"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-    <fullyQualifiedTypeName name="com.scm.helpers.AppConstants"/>
     <fullyQualifiedTypeName name="org.springframework.security.web.SecurityFilterChain"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
     <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.Customizer"/>
     <fullyQualifiedTypeName name="org.springframework.security.web.authentication.AuthenticationFailureHandler"/>
-    <fullyQualifiedTypeName name="org.springframework.security.web.authentication.AuthenticationSuccessHandler"/>
     <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.Customizer"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.authentication.AuthenticationSuccessHandler"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.apache.commons.logging.LogFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.validator.internal.util.logging.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.RedirectStrategy"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.DefaultRedirectStrategy"/>
+    <fullyQualifiedTypeName name="com.scm.config.OAuthAuthenticationSuccessHandler"/>
+    <fullyQualifiedTypeName name="org.springframework.security.oauth2.core.user.DefaultOAuth2User"/>
+    <fullyQualifiedTypeName name="com.scm.entities.User"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="com.scm.entities.Providers"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.scm.helpers.AppConstants"/>
+    <fullyQualifiedTypeName name="com.scm.repositories.UserRepo"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

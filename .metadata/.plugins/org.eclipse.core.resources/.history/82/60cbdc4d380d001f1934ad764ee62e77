@@ -1,7 +1,0 @@
-package com.scm.helpers;
-
-public class Message {
-	private String content;
-	private MessageType type=MessageType.blue;
-	
-}
