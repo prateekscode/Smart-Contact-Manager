@@ -4237,3 +4237,4 @@ Caused by: java.lang.Exception: Resource '/scm2.0/pom.xml' does not exist.
 2024-05-17 22:21:08,203 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-17 22:21:08,308 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 17 resources from src\main\resources to target\classes
 2024-05-17 22:21:08,321 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\PRATEEK\SpringB SCM\Smart Contact Manager\src\test\resources
+2024-05-18 08:55:52,276 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
