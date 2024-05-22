@@ -8,6 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
 import com.scm.entities.User;
@@ -88,6 +89,11 @@ public class UserServiceImpl implements UserService {
 	@Override
 	public List<User> getAllUsers() {
 		return userRepo.findAll();
+	}
+
+	@Override
+	public User getUserByEmail(String email) {
+		return userRepo.findByEmail(email).orElse(null);
 	}
 
 }
