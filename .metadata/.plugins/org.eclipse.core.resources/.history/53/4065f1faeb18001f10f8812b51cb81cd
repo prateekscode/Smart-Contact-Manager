@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html data-th-replace="~{base::parent(~{::#content},~{::title},~{::script})}">
+<head>
+    <meta charset="UTF-8">
+    <title data-th-text="${loggedInUser.name}+' | SCM'">Profile Page</title>
+</head>
+<body>
+<div id="content" class="pl-64 pt-20" style="height: 1000px">
+<div class="flex justify-center flex-col items-center">
+    <h1 class="text-5xl">Welcome to Profile page </h1>
+    <p>lorem pa s  dsdsakdsaf sdf sd f sd f sadf  asfd eawfd
+</div>
+</div>
+<script>console.log("this is profile page")</script>
+</body>
+</html>

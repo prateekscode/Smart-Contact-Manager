@@ -1,11 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html
+	data-th-replace="~{base::parent(~{::#content},~{::title},~{::script})}">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title data-th-text="${loggedInUser.name}+' | Dashboard'">Dashboard Page</title>
 </head>
 <body>
-<h1>This is user dashboard page</h1>
-<a data-th-href="@{'/do-logout'}">Logout</a>
+
+
+	<div id="content">
+		
+		<!-- sidebar -->
+		<!-- is user is logged in: sidebar -->
+		<div data-th-if="${loggedInUser}">
+			<div data-th-replace="~{user/sidebar::sidebar}"></div>
+		</div>
+
+		<div class="sm:pl-64 pt-20" style="height: 1000px">
+			<div class="flex justify-center flex-col items-center">
+				<h1 class="text-5xl">Welcome to Dashboard page</h1>
+				<p>lorem pa s dsdsakdsaf sdf sd f sd f sadf asfd eawfd
+			</div>
+		</div>
+	</div>
+	<script>
+		console.log("this is profile page")
+	</script>
 </body>
 </html>
