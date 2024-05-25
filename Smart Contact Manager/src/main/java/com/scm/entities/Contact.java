@@ -34,6 +34,7 @@ public class Contact {
 	private boolean favorite=false;
 	private String websiteLink;
 	private String linkedinLink;
+	private String cloudinaryImagePublicId;
 	
 	@ManyToOne
 	private User user;
@@ -41,5 +42,5 @@ public class Contact {
 	@OneToMany(mappedBy = "contact", cascade = CascadeType.ALL, fetch = FetchType.EAGER, orphanRemoval = true)
 	private List<SocialLink> links =new ArrayList<SocialLink>();
 	
-	private List<String> socialLinks=new ArrayList<>();
+//	private List<String> socialLinks=new ArrayList<>();
 }

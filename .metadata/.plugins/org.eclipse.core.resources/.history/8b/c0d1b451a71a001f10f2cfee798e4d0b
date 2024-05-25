@@ -1,0 +1,2 @@
+console.log("Admin user");
+document.querySelector("#image_file_input").addEventListener('change',function(event){})

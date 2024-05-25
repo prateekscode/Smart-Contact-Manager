@@ -1,0 +1,20 @@
+package com.scm.config;
+
+import org.springframework.context.annotation.Configuration;
+
+import com.cloudinary.Cloudinary;
+import com.cloudinary.utils.ObjectUtils;
+
+@Configuration
+public class AppConfig {
+
+	public Cloudinary cloudinary() {
+		
+		
+		return new Cloudinary();
+		
+		ObjectUtils
+	
+	}
+	
+}

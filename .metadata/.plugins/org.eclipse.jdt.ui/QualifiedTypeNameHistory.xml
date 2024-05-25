@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="org.springframework.security.web.authentication.AuthenticationFailureHandler"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.security.config.Customizer"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-    <fullyQualifiedTypeName name="org.springframework.security.web.authentication.AuthenticationSuccessHandler"/>
-    <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
-    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
     <fullyQualifiedTypeName name="org.apache.commons.logging.LogFactory"/>
     <fullyQualifiedTypeName name="org.hibernate.validator.internal.util.logging.LoggerFactory"/>
-    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
     <fullyQualifiedTypeName name="org.springframework.security.web.RedirectStrategy"/>
     <fullyQualifiedTypeName name="org.springframework.security.web.DefaultRedirectStrategy"/>
     <fullyQualifiedTypeName name="com.scm.config.OAuthAuthenticationSuccessHandler"/>
@@ -22,7 +9,6 @@
     <fullyQualifiedTypeName name="org.springframework.security.oauth2.client.authentication.OAuth2LoginAuthenticationToken"/>
     <fullyQualifiedTypeName name="org.springframework.security.oauth2.client.authentication.OAuth2AuthenticationToken"/>
     <fullyQualifiedTypeName name="org.springframework.security.oauth2.core.user.DefaultOAuth2User"/>
-    <fullyQualifiedTypeName name="com.scm.helpers.AppConstants"/>
     <fullyQualifiedTypeName name="com.scm.entities.Providers"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
@@ -36,9 +22,7 @@
     <fullyQualifiedTypeName name="com.scm.forms.ContactForm"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="com.scm.repositories.ContactRepo"/>
-    <fullyQualifiedTypeName name="java.util.UUID"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="com.scm.helpers.ResourceNotFoundException"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -51,7 +35,6 @@
     <fullyQualifiedTypeName name="com.scm.helpers.Helper"/>
     <fullyQualifiedTypeName name="com.scm.services.UserService"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.Email"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.Pattern"/>
     <fullyQualifiedTypeName name="jakarta.validation.Valid"/>
@@ -60,4 +43,21 @@
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="com.scm.helpers.Message"/>
     <fullyQualifiedTypeName name="com.scm.helpers.MessageType"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.scm.controllers.ContactController"/>
+    <fullyQualifiedTypeName name="com.scm.services.ImageService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.util.ObjectUtils"/>
+    <fullyQualifiedTypeName name="org.thymeleaf.util.ObjectUtils"/>
+    <fullyQualifiedTypeName name="org.apache.commons.lang3.ObjectUtils"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="com.cloudinary.Cloudinary"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.cloudinary.utils.ObjectUtils"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="com.cloudinary.Transformation"/>
+    <fullyQualifiedTypeName name="com.scm.helpers.AppConstants"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 </qualifiedTypeNameHistroy>

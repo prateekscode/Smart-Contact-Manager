@@ -1,0 +1,15 @@
+#google configurations
+spring.security.oauth2.client.registration.google.client-name=google
+spring.security.oauth2.client.registration.google.client-id=777959555781-ruu093r88eg59e6618bve6h37idm8dnj.apps.googleusercontent.com
+spring.security.oauth2.client.registration.google.client-secret=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
+spring.security.oauth2.client.registration.google.scope=email,profile
+
+#github configurations
+spring.security.oauth2.client.registration.github.client-name=github
+spring.security.oauth2.client.registration.github.client-id=Iv23li54sucq4KbyOHI3
+spring.security.oauth2.client.registration.github.client-secret=587a81564d57c50c540081dd49d09ed8ca2119f1
+spring.security.oauth2.client.registration.github.scope=email,profile
+
+#facebook configurations
+
+#cloudinary configurations
