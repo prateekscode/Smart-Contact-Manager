@@ -1,0 +1,19 @@
+package com.scm.repositories;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
+
+import com.scm.entities.Contact;
+import com.scm.entities.User;
+
+@Repository
+public interface ContactRepo extends JpaRepository<Contact, String>{
+//find the contact by user
+	List<Contact> findbyUser(User user);
+	@Query
+	List<Contact> findbyUserId(String userId);
+
+}
