@@ -1,7 +1,0 @@
-package com.scm.services.impl;
-
-import com.scm.services.ImageService;
-
-public class ImageServiceImpl  implements ImageService{
-
-}

@@ -1,6 +1,0 @@
-package com.scm.services;
-
-public interface ContactService {
-//save contacts
-	Contact save(Contact contact);
-}

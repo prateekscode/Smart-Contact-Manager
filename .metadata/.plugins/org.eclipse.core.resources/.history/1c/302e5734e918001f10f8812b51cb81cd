@@ -1,3 +1,0 @@
-<div th-data-fragment="sidebar">
-	<h1>this is sidebar</h1>
-</div>
